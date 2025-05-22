@@ -1,2 +1,2 @@
-results/output/model-last/transformer/model filter=lfs diff=lfs merge=lfs -text
 results/output/model-best/transformer/model filter=lfs diff=lfs merge=lfs -text
+results/output/model-last/transformer/model filter=lfs diff=lfs merge=lfs -text
